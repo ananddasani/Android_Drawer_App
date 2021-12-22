@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home_item"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/search_item"
+            android:icon="@drawable/search"
+            android:title="Search" />
+
+        <item
+            android:id="@+id/user_item"
+            android:icon="@drawable/user"
+            android:title="User" />
+
+        <item
+            android:id="@+id/profile_item"
+            android:icon="@drawable/profile"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/setting_item"
+            android:icon="@drawable/setting"
+            android:title="Settings" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Communication">
+
+            <menu>
+                <item
+                    android:id="@+id/share_item"
+                    android:icon="@drawable/share"
+                    android:title="Share" />
+
+                <item
+                    android:id="@+id/donate_item"
+                    android:icon="@drawable/donate"
+                    android:title="Donate" />
+            </menu>
+
+        </item>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Authentication">
+
+            <menu>
+
+                <item
+                    android:id="@+id/login_item"
+                    android:icon="@drawable/login"
+                    android:title="Login" />
+
+            </menu>
+
+        </item>
+
+    </group>
+</menu>
