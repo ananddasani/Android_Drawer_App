@@ -1,13 +1,13 @@
 # Android_Drawer_App
 Implementing The Navigation Drawer in the App
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # App Highlight
+![Drawer App1](https://user-images.githubusercontent.com/74413402/192095763-b8fb37fe-472f-4d01-848a-f43dd230c1a0.png)
+![Drawer App2](https://user-images.githubusercontent.com/74413402/192095768-49ce815b-120d-48ff-a2fe-52597a3804f5.png)
+![Drawer Code](https://user-images.githubusercontent.com/74413402/192095769-40b54982-cb91-4741-a13d-978961c21f00.png)
 
-<img src="app_images/Drawer Code.png" width="1000" /><br>
-
-<img src="app_images/Drawer App1.png" width="300" /><br>
-
-<img src="app_images/Drawer App2.png" width="300" /><br>
 
 # Code
 
